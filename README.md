@@ -1,5 +1,5 @@
 # ESP12-Smartwatch
-## Feature
+## Expected Feature
 * Time & date display
 * Time syncronize using NTP
 * Geolocation
